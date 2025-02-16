@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import Rating from '@mui/material/Rating';
 import Chip from '@mui/material/Chip';
 import Button from '@mui/material/Button';
-import IconButton from '@mui/material/IconBUtton';
+import IconButton from '@mui/material/IconButton';
 
 import  FavoriteBorder from '@mui/icons-material/FavoriteBorder';
 import  Favorite from '@mui/icons-material/Favorite';
